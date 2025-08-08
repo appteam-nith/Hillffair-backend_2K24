@@ -1,6 +1,6 @@
 # Hillffair 2k24 - College Fest App
 
-Hillffair 2k24 is the official app for the college fest, designed to enhance the user experience by providing features such as anonymous chatting, event highlights, and more.
+Hillffair 2k24 is the official app for the college fest, designed to enhance the user experience by providing features such as anonymous chatting, event highlights, and much more.
 
 ## Features
 
@@ -62,4 +62,5 @@ Thanks to the following people for contributing to the project:
 - [Sankalp Gupta](https://github.com/sankalp2102) – Project Lead and Backend Developer
 - [Prince Khandelwal](https://github.com/prince04-coder) – Backend Developer
 - [Arjun Prajapat](https://github.com/arjunprajapat923) – Backend Developer
+- [Ishaan Yadav](https://github.com/Ishaan-yadav09) - Backend Developer
 
